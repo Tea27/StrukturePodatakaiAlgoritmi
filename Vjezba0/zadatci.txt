@@ -1,0 +1,6 @@
+* mystrlen() – funkcija prima string (char*) i vraća integer koji predstavlja dužinu stringa.
+* mystrcpy() – funkcija prima dva stringa i kopira drugi string u prvi string.
+* mystrcmp() – funkcija prima dva stringa i uspoređuje ih. Funkcija vraća: broj manji od nula ako je prvi string manji od drugog stringa (po leksikografskom poretku), broj veći od nula ako je drugi string manji od prvog i nula ako su stringovi jednaki.
+* mystrcat() – funkcija „dodaje“ drugi string na kraj prvog stringa.
+* mystrstr() – funkcija vraća pokazivač (unutar prvog stringa) koji pokazuje na prvo pojavljivanje drugog stringa. Ako ga ne pronađe, funkcija vraća NULL.
+* reverse() – prima dva stringa i kopira prvi string u drugi string naopako (funkcija ne postoji u string.h)
